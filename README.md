@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **tailwind CSS, Typescript, Next.js**
 
-- 👨‍💻 All of my projects are available at [Blog](notion-profolio.vercel.app)
+- 👨‍💻 All of my projects are available at [Blog](https://notion-profolio.vercel.app)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@chu23294752)
 
