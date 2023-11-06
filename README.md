@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **tailwind CSS, Typescript, Next.js**
 
-- 👨‍💻 All of my projects are available at [Notion](https://www.notion.so/schiou/12c976d10bc74626a853a7f4f3b58e99?v=bebdf279a05b4374b6690b75b69dd566&pvs=4)
+- 👨‍💻 All of my projects are available at [Blog](notion-profolio.vercel.app)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@chu23294752)
 
@@ -95,6 +95,9 @@
         />
       </a>
 </p>
+<h4 align="left">Database:</h4>
+- <a href="https://www.google.com/script/start/" target="_blank" rel="noreferrer">Google App Script</a> </br>
+- <a href="https://developers.notion.com" target="_blank" rel="noreferrer">Notion</a> </br>
 
 <h4 align="left">Design Tools:</h4>
 <p align="left">
