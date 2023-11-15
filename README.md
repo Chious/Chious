@@ -158,7 +158,7 @@
           height="40"
         />
       </a>
-    <a herf="https://www.r-project.org" target="_blank" rel="noreferrer">
+    <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
     <img
       src="https://github.com/Chious/Chious/blob/main/assets/r.png"
       alt="r"
