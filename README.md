@@ -3,15 +3,18 @@
 
 - 🔭 I’m currently working on [Spotify Gallery](https://github.com/Chious/capstone-alphacast)
 
-- 🌱 I’m currently learning **tailwind CSS, Typescript, Next.js**
+- 🌱 I’m currently learning **tailwind CSS, Next.js, [socket.io](https://socket.io), [Framer Motion](https://www.framer.com/motion/)**
 
 - 👨‍💻 All of my projects are available at [Blog](https://notion-profolio.vercel.app)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@chu23294752)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Web Development**
 
 - ⚡ Enjoy the game :D **https://dazzling-conkies-026a37.netlify.app**
+
+- 📕 My reading list:
+  1. [Database Design](https://www.books.com.tw/products/0010774361?gad_source=1&gclid=CjwKCAjwnOipBhBQEiwACyGLusNwGJyb8qj-JKdryWkGulLzK0ih11MRu_-xPvECiqdeIQ500aMpOhoCv0EQAvD_BwE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -79,6 +82,14 @@
           height="40"
         />
       </a>
+     <a herf="https://mui.com" target= "_blank" rel="noreferrer">
+       <img
+         src="https://mui.com/static/logo.png"
+         alt="material-ui"
+         width="40"
+         height="40"
+         />
+     </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -121,7 +132,7 @@
       </a>
 </p>
 
-<h4 align="left">Statistic</h4>
+<h4 align="left">Statistic Analysis / Data Visualization</h4>
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img
@@ -147,6 +158,14 @@
           height="40"
         />
       </a>
+    <a herf="https://www.r-project.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/Chious/Chious/blob/main/assets/r.png"
+      alt="r"
+      width="40"
+      height="40"
+      />
+  </a>
 </p>
    
       
