@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jia Sheng</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-- 🔭 I’m currently working on [Spotify Gallery](https://github.com/Chious/capstone-alphacast)
-
-- 🌱 I’m currently learning **tailwind CSS, Next.js, [socket.io](https://socket.io), [Framer Motion](https://www.framer.com/motion/)**
+- 🌱 I’m currently learning [Next.js](https://nextjs.org), [Redux](https://redux.js.org), [OpenAI API](https://openai.com/blog/openai-api)
 
 - 👨‍💻 All of my projects are available at [Blog](https://notion-profolio.vercel.app)
 
