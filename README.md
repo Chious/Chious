@@ -1,176 +1,75 @@
-<h1 align="center">Hi 👋, I'm Jia Sheng</h1>
-<h3 align="center">A passionate frontend developer from Taiwan</h3>
+<h1 style="color:#D9934C"> 🧙‍♂️ Sam Chiou's Adventurer Log</h1>
 
-- 🌱 I’m currently learning [Next.js](https://nextjs.org), [Redux](https://redux.js.org), [OpenAI API](https://openai.com/blog/openai-api)
+<section style="display: flex; align-items: center; justify-content: center; gap: 20px; padding: 20px">
+<img src="./assets/avatar.png" alt="Character" style="border-radius: 10px; border: 1px solid #e5e7eb; width: 30%" />
 
-- 👨‍💻 All of my projects are available at [Blog](https://notion-profolio.vercel.app)
+<div style="text-align: center">
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@chu23294752)
+<h1 style="color:#D9934C">Sam Chiou</h1>
+<ul style="color:#9A9FAC">
 
-- 💬 Ask me about **Web Development**
+<li style="text-align: left" id="level"><strong>Level</strong> 2 → 3 (112 EXP to next)</li>
+<li style="text-align: left;" id="exp"><strong>Total Experience</strong> `1088 / 2200 EXP` | ██████░░░░░░░░ (49.5%)</li>
+<li style="text-align: left"><strong>Occupation</strong> Frontend Developer</li>
+<li style="text-align: left"><strong>Skills</strong> React, CI/CD, little bit backend</li>
+<li style="text-align: left; display: flex; align-items: center; gap: 10px;"><strong>HP</strong> <img src="./assets/heart.png" alt="HP" style="width: 20px;" /><img src="./assets/heart.png" alt="HP" style="width: 20px;" /><img src="./assets/heart.png" alt="HP" style="width: 20px;" /></li>
+</ul>
 
-- ⚡ Enjoy the game :D **https://dazzling-conkies-026a37.netlify.app**
+</div>
+</section>
 
-- 📕 My reading list:
-  1. [Database Design](https://www.books.com.tw/products/0010774361?gad_source=1&gclid=CjwKCAjwnOipBhBQEiwACyGLusNwGJyb8qj-JKdryWkGulLzK0ih11MRu_-xPvECiqdeIQ500aMpOhoCv0EQAvD_BwE)
+🧭 Still leveling up, one commit at a time!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 style="color:#D9934C"> ⚔️ Talent Tree</h2>
 
-<h4 align="left">Web Basic </h4>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-          alt="css3"
-          width="40"
-          height="40"
-        />
-      </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-          alt="html5"
-          width="40"
-          height="40"
-        />
-      </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-          alt="git"
-          width="40"
-          height="40"
-        />
-      </a>
-  <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-        />
-      </a>
-</p>
-<p align="left">
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript"
-        width="40"
-        height="40"
-      />
-    </a>
-  </p>
+| Category         | Skills                                                                                                                                                                                                                                                                                                                                   |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Web Basic        | ![React](https://skillicons.dev/icons?i=react) ![Next](https://skillicons.dev/icons?i=nextjs) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) ![TS](https://skillicons.dev/icons?i=ts) ![GraphQL](https://skillicons.dev/icons?i=graphql)               |
+| Styling / UI     | ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![Sass](https://skillicons.dev/icons?i=sass) ![MUI](https://skillicons.dev/icons?i=materialui) ![Radix](https://skillicons.dev/icons?i=radix) Shadcn UI                                                                                                                          |
+| State Management | ![Redux](https://skillicons.dev/icons?i=redux) Zustand, TanStack Query, Context API                                                                                                                                                                                                                                                      |
+| CI/CD            | ![Git](https://skillicons.dev/icons?i=git) ![GitLab](https://skillicons.dev/icons?i=gitlab) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Netlify](https://skillicons.dev/icons?i=netlify) ![Vite](https://skillicons.dev/icons?i=vite) ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) |
+| Backend          | ![Express](https://skillicons.dev/icons?i=express) ![Prisma](https://skillicons.dev/icons?i=prisma) ![GraphQL](https://skillicons.dev/icons?i=graphql)                                                                                                                                                                                   |
 
-<h4 align="left">Frame Work </h4>
- <p align="left">
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="react"
-          width="40"
-          height="40"
-        />
-      </a>
-     <a herf="https://mui.com" target= "_blank" rel="noreferrer">
-       <img
-         src="https://mui.com/static/logo.png"
-         alt="material-ui"
-         width="40"
-         height="40"
-         />
-     </a>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-          alt="bootstrap"
-          width="40"
-          height="40"
-        />
-      </a>
-   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-          alt="sass"
-          width="40"
-          height="40"
-        />
-      </a>
- </p>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-          alt="nextjs"
-          width="40"
-          height="40"
-        />
-      </a>
-</p>
-<h4 align="left">Database:</h4>
-- <a href="https://www.google.com/script/start/" target="_blank" rel="noreferrer">Google App Script</a> </br>
-- <a href="https://developers.notion.com" target="_blank" rel="noreferrer">Notion</a> </br>
+---
 
-<h4 align="left">Design Tools:</h4>
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-          alt="figma"
-          width="40"
-          height="40"
-        />
-      </a>
-</p>
+<section id="skills-section">
+<h2 style="color:#D9934C"> 📊 Top Skills</h2>
 
-<h4 align="left">Statistic Analysis / Data Visualization</h4>
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-          alt="pandas"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-          alt="python"
-          width="40"
-          height="40"
-        />
-      </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-          alt="seaborn"
-          width="40"
-          height="40"
-        />
-      </a>
-    <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/Chious/Chious/blob/main/assets/r.png"
-      alt="r"
-      width="40"
-      height="40"
-      />
-  </a>
-</p>
-   
-      
-      
-      
-      
-      
-      
-    
-      
+| Skill      | Level | EXP Bar        | Usage  |
+| ---------- | ----- | -------------- | ------ |
+| JavaScript | Lv. 3 | ████████░░░░░░ | 60.75% |
+| MDX        | Lv. 1 | █░░░░░░░░░░░░░ | 12.92% |
+| TypeScript | Lv. 2 | █░░░░░░░░░░░░░ | 8.89%  |
+| Handlebars | Lv. 1 | █░░░░░░░░░░░░░ | 7.50%  |
+| CSS        | Lv. 1 | ░░░░░░░░░░░░░░ | 5.23%  |
+| HTML       | Lv. 2 | ░░░░░░░░░░░░░░ | 4.25%  |
+| Kotlin     | Lv. 1 | ░░░░░░░░░░░░░░ | 0.45%  |
+
+_Generated by GitHub API_
+
+Last updated: 4/7/2025, 9:08:21 PM
+
+</section>
+
+<section id="backpack">
+<h2 style="color:#D9934C"> 📚 My Backpack</h2>
+
+> **Note:** This section is currently a mess! Don't look at it!
+
+- 📚（閱讀中）《簡約的軟體開發思維：用 Functional Programming 重構程式- 以 Javascript 為例》
+- 📚《React 思維進化：一次打破常見的觀念誤解，躍升專業前端開發者》
+- 📚《You Don't Know JS Yet》
+- 🤖 Interest: n8n assistant, ai agent (in my building progress...)
+- 🥮 I like to cook for myself :D
+
+</section>
+
+---
+
+<h4>credit:</h4>
+
+1. skillicons: [skillicons](https://skillicons.dev)
+2. svg: generated by chatgpt
+3. static generate by github action & github api

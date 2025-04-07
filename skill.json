@@ -1,0 +1,16 @@
+{
+  "role": "Frontend Developer",
+  "experience": "1 year",
+  "specialty": ["ReactJS", "NextJS", "TypeScript"],
+  "currentStack": {
+    "frontend": ["ReactJS", "NextJS", "TypeScript", "TailwindCSS"],
+    "stateManagement": ["Redux", "Zustand", "TanStack Query"],
+    "backend": ["Express", "Prisma", "GraphQL"],
+    "deployment": ["Vercel", "Netlify", "AWS", "Docker"]
+  },
+  "passions": [
+    "Learning New Technologies",
+    "Team Collaboration",
+    "Technical Improvements"
+  ]
+}
