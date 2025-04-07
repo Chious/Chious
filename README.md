@@ -1,7 +1,7 @@
 <h1 style="color:#D9934C"> 🧙‍♂️ Sam Chiou's Adventurer Log</h1>
 
 <section style="display: flex; align-items: center; justify-content: center; gap: 20px; padding: 20px">
-<img src="./assets/avatar.png" alt="Character" style="border-radius: 10px; border: 1px solid #e5e7eb; width: 30%" />
+<img src="https://raw.githubusercontent.com/Chious/Chious/main/assets/avatar.png" alt="Character" style="border-radius: 10px; border: 1px solid #e5e7eb; width: 30%" />
 
 <div style="text-align: center">
 
@@ -12,7 +12,7 @@
 <li style="text-align: left;" id="exp"><strong>Total Experience</strong> `1088 / 2200 EXP` | ██████░░░░░░░░ (49.5%)</li>
 <li style="text-align: left"><strong>Occupation</strong> Frontend Developer</li>
 <li style="text-align: left"><strong>Skills</strong> React, CI/CD, little bit backend</li>
-<li style="text-align: left; display: flex; align-items: center; gap: 10px;"><strong>HP</strong> <img src="./assets/heart.png" alt="HP" style="width: 20px;" /><img src="./assets/heart.png" alt="HP" style="width: 20px;" /><img src="./assets/heart.png" alt="HP" style="width: 20px;" /></li>
+<li style="text-align: left; display: flex; align-items: center; gap: 10px;"><strong>HP</strong> <img src="https://github.com/Chious/Chious/blob/main/assets/heart.png?raw=true" alt="HP" style="width: 20px;" /><img src="https://github.com/Chious/Chious/blob/main/assets/heart.png?raw=true" alt="HP" style="width: 20px;" /><img src="https://github.com/Chious/Chious/blob/main/assets/heart.png?raw=true" alt="HP" style="width: 20px;" /></li>
 </ul>
 
 </div>
